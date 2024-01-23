@@ -162,7 +162,7 @@ $(".inner_new li").click(function () {
 
 //toggle
 function openNav(){
-    document.getElementById("myNav").style.width = "400px";
+    document.getElementById("myNav").style.width = "50%";
 }
 // close
 function closeNav(){
